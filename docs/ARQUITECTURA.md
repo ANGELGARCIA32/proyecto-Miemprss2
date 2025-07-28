@@ -1,0 +1,13 @@
+# Arquitectura de la Aplicación: Módulos Principales
+
+## Módulo 1: Gestión de Clientes (CRM)
+-   Base de datos de clientes (nombre, contacto, historial).
+-   Registro de interacciones y seguimientos.
+
+## Módulo 2: Gestión de Inventarios (ERP Core)
+-   Catálogo de productos (SKU, nombre, descripción, precio).
+-   Control de stock (entradas y salidas).
+
+## Módulo 3: Gestión Financiera (ERP Core)
+-   Registro de ventas.
+-   Cuentas por cobrar.
